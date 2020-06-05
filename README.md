@@ -1,5 +1,5 @@
 # M20_PID_Balance
-### Balancing a ball on a platform using Proportional-Integral-Derivative
+### Balancing a ball on a platform using Proportional-Integral-Derivative Feedback Control
 
 M20 Physics IA source code
 
